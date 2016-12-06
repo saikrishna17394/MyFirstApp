@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">नया अप</string>
+    <string name="edit_message">संदेश बेजो</string>
+    <string name="button_send">बेजो</string>
+
+</resources>
